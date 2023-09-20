@@ -1,0 +1,156 @@
+.Intro {
+  background-image: url("https://i.pinimg.com/736x/1d/c9/76/1dc9766897ab334fa7119c84afe3e033.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding-bottom: 50px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: red;
+}
+.Hobby {
+  background-image: url("https://i.pinimg.com/736x/79/2f/eb/792febd6707c027aa50ff52460da4504--plain-wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+#myName {
+  padding-top: 300px;
+  font-size: 60px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#hobbyHeading {
+  font-size: 60px;
+  padding-top: 50px;
+  color: aqua;
+  font-family: cursive;
+}
+#hobbyPara {
+  font-size: 25px;
+  font-family: monospace;
+  color: aliceblue;
+}
+#hobbyImg {
+  width: 300px;
+  height: 290px;
+  float: top;
+}
+.sectionAboutSection {
+  background-image: url("https://w0.peakpx.com/wallpaper/421/437/HD-wallpaper-plain-purple-background-purple.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+#pageTitle {
+  font-size: 90px;
+  color: khaki;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#para {
+  padding-top: 15px;
+  font-size: 30px;
+  color: coral;
+}
+#head {
+  padding-top: 15px;
+  font-size: 30px;
+  color: peachpuff;
+}
+#conclu {
+  padding-top: 15px;
+  font-size: 40px;
+  color: crimson;
+}
+.sectionSchool {
+  background-image: url("https://www.bhmpics.com/downloads/black-background-wallpaper/37.screen-0.jpg.webp");
+  width: 100%;
+  height: 100%;
+}
+#pageTitleSchool {
+  font-size: 90px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: aqua;
+  text-align: center;
+}
+.mySchoolContent {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+}
+.subjectArts {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: greenyellow;
+  text-align: center;
+}
+.subjectMaths {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: yellow;
+  text-align: center;
+  padding-top: 10px;
+}
+.subjectScience {
+  font-size: 35px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: orange;
+  text-align: center;
+  padding-top: 10px;
+
+}
+.subjectHistory {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: red;
+  text-align: center;
+  padding-top: 10px;
+}
+#schoolBus {
+  width: 27%;
+  height: 30%;
+  padding-left: 500px;
+  padding-top: 25px;
+}
+.familyFriendPage{
+  background-image: url("https://cdn.wallpapersafari.com/42/56/6FniKa.jpg");
+  width:100%;
+  height: 100%;
+}
+.familyFriendPage_title{
+  padding-top: 35px;
+  font-size: 55px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: red;
+}
+.familyFriendPage_para{
+  text-align: center;
+  font-size:22px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#familyFriendPage_hImg{
+  width: 15%;
+  height: 27%;
+}
+#familyFriendPage_Img{
+  width: 23%;
+  height: 38%;
+  text-align: center;
+  padding-left: 550px;
+}
+#thankPage{
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/880/160/desktop-wallpaper-plain-black-dark-for-laptop.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 105%;
+}
+
+
